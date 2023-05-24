@@ -1,4 +1,4 @@
 flask
 flask-cors
-langchain
+langchain==0.0.152
 openai
